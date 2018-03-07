@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serr.iml" filepath="$PROJECT_DIR$/.idea/modules/serr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serr_main.iml" group="serr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serr_test.iml" group="serr" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>Login</servlet-class>
+</servlet>
+    <servlet>
+        <servlet-name>blog</servlet-name>
+        <servlet-class>BlogServlet</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>cor</servlet-name>
+        <servlet-class>Correct</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>cor</servlet-name>
+        <url-pattern>/correct</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>blog</servlet-name>
+        <url-pattern>/blog</url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+<servlet-name>Login</servlet-name>
+<url-pattern>/Login</url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : com.ttn : serr-1.0-SNAPSHOT.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0203e0-7713-4ddf-b31c-974d7b618dc3" name="Default" comment="">
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/artifacts/ServletProject_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/artifacts/ServletProject_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_8_v20171121.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_8_v20171121.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_8_v20171121.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_8_v20171121.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/.jsdtscope" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.m2e.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.wst.common.component" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/.settings/org.eclipse.wst.validation.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/ServletProject.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/ser" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/java/HelloServlet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/java/MyClass.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/java/newPack/Login.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/webapp/WEB-INF/newHello.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/webapp/WEB-INF/servlet-context.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../ServletProject/src/main/webapp/helloJsp.jsp" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/A1.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/BOI.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Bank.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/ICICI.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q1.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q10$house.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q10.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q10.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q11.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q11.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q12.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q2.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q2.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q3.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q4.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q4.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q5.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q5.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q6.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q6.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q7.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q7.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q8.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q8.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q9.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/Q9.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/SBI.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/out/production/A1/test" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q1.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q1.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q10.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q10.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q11.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q11.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q12.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q2.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q2.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q3.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q3.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q4.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q4.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q5.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q5.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q6.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q6.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q7.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q7.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q8.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q8.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q9.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/Q9.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/A1/src/test" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/fileContent/fileContent.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/buildOutputCleanup/built.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.gradle/buildOutputCleanup/cache.properties.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/.name" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/modules/L.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/modules/L_main.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/modules/L_test.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/build.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/build/classes/java/main/hello.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/build/libs/L-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/build/tmp/jar/MANIFEST.MF" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/gradlew" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/gradlew.bat" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/LM/src/main/java/hello.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/4.0/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/buildOutputCleanup/built.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.gradle/buildOutputCleanup/cache.properties.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/.name" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/modules/ODNS.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/modules/ODNS_main.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/modules/ODNS_test.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/build.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/gradlew" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/gradlew.bat" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/ODNA/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collec/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collec/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collec/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collec/collec.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/collections assignment.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc2.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc3.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc4$1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc4.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc5$1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc5.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc6$1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc6.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc7.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc8.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Qc9.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/SpecialStack.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/Student.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/out/production/collections assignment/emp.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc1.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc2.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc3.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc4.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc5.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc6.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc7.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc7.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc8.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/Qc9.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc1.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc2.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc3.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc4.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc5.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc6.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc8.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/collections assignment/src/qc9.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/gen.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/A.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/A1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/Aj.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/B.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/B1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/Cal.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/Demo.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/Lol.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/Or.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/P.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/a.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/b.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/bak.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/bicom.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/cal.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/emplo.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/employe.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/mul.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/person.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/out/production/gen/student.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/Cal.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/Lol.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/Or.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/P.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/bak.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/bicom.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gen/src/mul.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/.idea/modules/ttn.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/build.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/generic/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/.idea/modules/ttn.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/build.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/gr1/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/.idea/modules/ttn1.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/build.gradle.kts" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/grd1/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/iug/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/iug/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/iug/iug.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/java8.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/Qj1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/Qj2.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/Qj3.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/Qj4.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/Qj5.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/employe1.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/emplyoee.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/lol.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/poop.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/out/production/java8/tick.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj1.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj1.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj2.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj3.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj4.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj5.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj82.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj83.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj84.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj85.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/Qj86.png" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/java8/src/emplyoee.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/jtesting.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/out/production/jtesting/Addition.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/out/test/jtesting/AdditionTesting.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/src/main/Addition.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/jtesting/src/testing/AdditionTesting.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/fileContent/annotation-processors.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/fileContent/fileContent.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.5.1/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.5.1/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.5.1/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.5.1/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/4.5.1/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/buildOutputCleanup/built.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/buildOutputCleanup/cache.properties.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.gradle/vcsWorkingDirs/gc.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/.name" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__antlr_antlr_2_7_6.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__commons_collections_commons_collections_3_1.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__javax_transaction_jta_1_1.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__org_hibernate_hibernate_core_3_6_7_Final.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/modules/opp1.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/modules/opp1_main.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/modules/opp1_test.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/build.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/build/classes/java/main/hlerld.class" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/build/libs/opp1-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/build/resources/main/fil.txt" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/build/resources/main/file.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/build/tmp/jar/MANIFEST.MF" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/gradlew" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/gradlew.bat" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/myTask.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/src/main/java/hlerld.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/src/main/resources/fil.txt" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/o/src/main/resources/file.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/src/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/src/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/src/.idea/src.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/src/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/src/main/Add1.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/src/test/AddiTest.java" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/testing/testing.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/4.0/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/4.0/taskHistory/fileSnapshots.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/4.0/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/4.0/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/buildOutputCleanup/built.bin" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.gradle/buildOutputCleanup/cache.properties.lock" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.idea/misc.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.idea/modules.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.idea/modules/n.iml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/build.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/gradlew" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/gradlew.bat" />
+      <change beforePath="" afterPath="$USER_HOME$/IdeaProjects/tn/settings.gradle" />
+      <change beforePath="" afterPath="$USER_HOME$/file" />
+      <change beforePath="$USER_HOME$/README.md" afterPath="$USER_HOME$/README.md" />
+      <change beforePath="$USER_HOME$/index.html" afterPath="$USER_HOME$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="serr" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="serr" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="serr" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="serr" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="51" lean-forward="false" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BlogServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+              <folding>
+                <marker date="1520249510314" expanded="true" signature="1037:1066" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1037:1072" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1037:1074" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1037:1082" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1037:1118" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1037:1127" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1037:1132" ph="INSERT INTO blogdata... " />
+                <marker date="1520249510314" expanded="true" signature="1083:1116" ph="SELECT uid f... USER" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blogpage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/blogpage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Correct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Correct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Valid.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Valid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1520188848342" expanded="true" signature="469:514" ph="select * fro... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Data.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="serr" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="serr" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'serr'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'serr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'serr'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'serr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'serr'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'serr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'serr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'serr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'serr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4559509876000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3406867908" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3461991123" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="serr" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-installation-beacon-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-model-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-tooling-api-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-runtime-api-info-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-docs-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-base-services-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-cli-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-base-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-core-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-launcher-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-resources-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-wrapper-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-process-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-model-core-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-logging-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-jvm-services-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/groovy-all-2.4.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/gradle-messaging-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-publish-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ide-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-antlr-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-announce-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-testing-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-maven-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-diagnostics-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-resources-http-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ide-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ide-play-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-build-init-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-scala-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-scala-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-java-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-composite-builds-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-dependency-management-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-plugins-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-build-cache-http-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-code-quality-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-plugin-use-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-plugin-development-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-build-comparison-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-reporting-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-testing-jvm-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-workers-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-groovy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-language-native-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-resources-s3-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-signing-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-play-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-resources-sftp-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-osgi-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ivy-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-jacoco-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-testing-base-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-ear-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-tooling-api-builders-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-platform-base-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-test-kit-4.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0-bin/3p92xsbhik5vmig8i90n16yxc/gradle-4.0/lib/plugins/gradle-javascript-4.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/web.fxml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEN-INF/Index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/Index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEN-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/MyServlet.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Vali.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Blog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/User.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/Correct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Valid.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/blogpage.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BlogServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="34" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serr" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/aop" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEN-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="serr [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.853" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Gradle : com.ttn : serr-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_serr_3" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="38023" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.ttn : serr-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.serr [build]" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.serr [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0203e0-7713-4ddf-b31c-974d7b618dc3" name="Default" comment="" />
+      <created>1519808228713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519808228713</updated>
+      <workItem from="1519808236585" duration="7917000" />
+      <workItem from="1519880690056" duration="76000" />
+      <workItem from="1519882547749" duration="4177000" />
+      <workItem from="1519893339800" duration="1241000" />
+      <workItem from="1520174415932" duration="13219000" />
+      <workItem from="1520243311784" duration="2751000" />
+      <workItem from="1520332872070" duration="114000" />
+      <workItem from="1520361343918" duration="181000" />
+      <workItem from="1520361562492" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29873000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.50593823" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.49406177" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27553445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1266825" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26603326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1266825" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Correct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Valid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1520188848342" expanded="true" signature="469:514" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="51" lean-forward="false" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/blogpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Correct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Valid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1520188848342" expanded="true" signature="469:514" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BlogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <marker date="1520249510314" expanded="true" signature="1037:1066" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1072" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1074" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1082" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1118" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1127" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1132" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1083:1116" ph="SELECT uid f... USER" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BlogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="84" lean-forward="false" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+          <folding>
+            <marker date="1520249510314" expanded="true" signature="1037:1066" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1072" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1074" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1082" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1118" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1127" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1132" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1083:1116" ph="SELECT uid f... USER" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/blogpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Correct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Valid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1520188848342" expanded="true" signature="469:514" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Correct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="87" lean-forward="false" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vali.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="87" lean-forward="false" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vali.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="87" lean-forward="false" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vali.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/web.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/1952f91d84016a39e31346c9d18bd8c9c4a128a/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/http/HttpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="354" column="19" lean-forward="false" selection-start-line="354" selection-start-column="19" selection-end-line="354" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Blog.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vali.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/blogpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Correct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="51" lean-forward="false" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Valid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1520188848342" expanded="true" signature="469:514" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BlogServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <marker date="1520249510314" expanded="true" signature="1037:1066" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1072" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1074" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1082" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1118" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1127" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1037:1132" ph="INSERT INTO blogdata... " />
+            <marker date="1520249510314" expanded="true" signature="1083:1116" ph="SELECT uid f... USER" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : com.ttn : serr-1.0-SNAPSHOT.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>serr_main|serr</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

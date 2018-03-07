@@ -1,0 +1,34 @@
+group 'opp'
+version '1.0-SNAPSHOT'
+apply from:"myTask.gradle"
+apply plugin: 'java'
+apply plugin: 'idea'
+sourceCompatibility = 1.8
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+//adding repository
+    compile 'org.hibernate:hibernate-core:3.6.7.Final'
+}
+//jar file
+
+jar . manifest. attributes('Main-Class':'hlerld')
+
+//added java and java2 and
+sourceSets.main {
+
+    java.srcDirs 'src/main/java', 'src/main/java2'
+//file.txt is excluded
+    resources{
+        srcDir "src/main/resources"
+
+        exclude "file.txt"
+    }
+}
+
+
+
