@@ -3,6 +3,7 @@ package domaineexercise
 class User {
     String email
     String userName
+    transient String name
     String password
     String firstName
     byte photo
@@ -10,6 +11,7 @@ class User {
     boolean active
     Date dateCreated
     Date dateUpdated
+    static hasMany = [topics:Topic,subscriptions:Subscription,readingItems:ReadingItem,resources:Resource]
 
 
     static constraints = {
@@ -22,5 +24,8 @@ class User {
         active(nullable:true)
 
 
+    }
+    static mapping = {
+        photo(sqlType: "longblob")
     }
 }

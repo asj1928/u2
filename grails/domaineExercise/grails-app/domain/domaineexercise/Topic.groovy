@@ -1,17 +1,19 @@
 package domaineexercise
 
-import java.beans.Visibility
 
 class Topic {
     String name
-    User createdBy
+//    User createdBy
     Date dateCreated
     Date lastupdated
 
     domaineexercise.Visibility visibility
 
+    static belongsTo = [createdBy:User]
+    static hasMany = [subscriptions:Subscription,resources:Resource]
+
     static constraints = {
-        name(unique: User,blank: false,nullable: false )
+       name(unique:'createdBy',blank: false,nullable: false )
         createdBy(nullable: false)
         visibility(nullable: false)
     }
