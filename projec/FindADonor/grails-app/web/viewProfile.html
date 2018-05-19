@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+
+    <!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        /* Remove the navbar's default margin-bottom and rounded borders */
+        .navbar {
+            margin-bottom: 0;
+            border-radius: 0;
+        }
+
+        /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+        .row.content {height: 450px}
+
+        /* Set gray background color and 100% height */
+        .sidenav {
+            padding-top: 20px;
+            background-color: #f1f1f1;
+            height: 100%;
+        }
+
+        /* Set black background color, white text and some padding */
+        footer {
+            background-color: #555;
+            color: white;
+            padding: 15px;
+        }
+
+        /* On small screens, set height to 'auto' for sidenav and grid */
+        @media screen and (max-width: 767px) {
+            .sidenav {
+                height: auto;
+                padding: 15px;
+            }
+            .row.content {height:auto;}
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="col-lg-4">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="dashboard.html">Find A Donar</a>
+            </div>
+        </div>
+        <div class="col-lg-8">
+
+
+            <ul class="nav navbar-nav col-lg-12">
+                <!--<li class="col-lg-1"></li>-->
+                <li class="col-lg-5 ">
+                    <form class="form-inline col-lg-12 " style="margin-top: 12px">
+                        <div class="form-group">
+                            <input class="form-control" type="search" placeholder="search..">
+                            <button type=" button " class="btn  btn-default">
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                            </input>
+
+                        </div>
+
+                    </form>
+                </li>
+
+
+                <li class="col-lg-1" style="padding: 0px"><a href="#myModal2" data-toggle="modal"
+                                                             data-target="#myModal2"><i class="fa fa-envelope-o"
+                                                                                        style="font-size:24px"></i></a>
+                </li>
+                <div id="myModal2" class="modal fade" role="dialog">
+
+                    <div class="modal-dialog">
+
+
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">send invitation</h4>
+                            </div>
+                            <div class="modal-body">
+                                <form class="form-horizontal" action="#">
+                                    <div class=" col-lg-12">
+                                        <div class="col-lg-2">
+                                            <label class="control-label ">message:</label>
+
+                                        </div>
+                                        <div class="col-lg-10">
+                                            <textarea type="text" class="form-control" id="email1"
+                                                      name="email1"></textarea>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="dropdown col-lg-12">
+                                        <br><br>
+                                        <div class="col-lg-2">
+                                            <label class="control-label ">Email to:</label>
+
+                                        </div>
+                                        <div class="col-lg-10">
+                                            <select class="form-control " name="topic">
+
+
+                                                <option value="">Ajay singh</option>
+                                                <option value="">P.Sriram</option>
+                                                <option value="">Soumiya Dutta</option>
+
+
+                                            </select>
+                                        </div>
+
+
+                                    </div>
+                                    <br><br>
+                                    <br>
+
+                                    <div class="form-group">
+                                        <br><br>
+                                        <div class="col-sm-4"></div>
+                                        <div class=" col-sm-4">
+                                            <br><br>
+
+                                            <button type="submit" class="btn btn-default">share</button>
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close
+                                            </button>
+
+                                        </div>
+                                        <div class="col-sm-4"></div>
+                                    </div>
+                                </form>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <li class="dropdown  col-lg-3" style="padding: 0px">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-user-circle-o"
+                                                                                  style="font-size:24px"></i>
+                        Ajay Singh
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="dashboard.html">Dashboard</a></li>
+                        <li><a href="viewProfile.html">profile</a></li>
+                        <li><a href="#">edit profile</a></li>
+                        <li><a href="nearestHos.html">Nearest hospital</a></li>
+                        <li><a href="#">logout</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
+
+        </div>
+
+    </div>
+</nav>
+
+<div class="container-fluid ">
+    <div class="row ">
+        <div class="col-lg-2 sidenav" style="background: #c6c8ca">
+            <div class="col-md-12 text-center">
+                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                     style="width: 100px; height: 100px;" src="images/usr.jpg" data-holder-rendered="true">
+                <br>
+                <br>
+            </div>
+
+
+
+            <div class="row featurette">
+                <div class="col-md-12">
+                    <h2 class="featurette-heading">Ajay Singh Jodha <span class="text-muted">@asj1928  </span></h2>
+                    <p class="lead">
+                        <b> Sex:</b> Male<br>
+                        <B>Blood group:</B> O negative<br>
+                        <B>Haemoglobin()gm%:</B> 16.3<br>
+                        <B>Hiv I&II:</B> NON REACTIVE<br>
+                        <B>NAT TEST:</B> NON REACTIVE<br>
+                        <B>HCV:</B> NON REACTIVE<br>
+                        <B>ANTIBODY SCREENING:</B> NON REACTIVE<br>
+                        <b>donar blood group:</b> B negative
+
+                    </p>
+
+
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+
+            </div>
+
+
+        </div>
+        <div class="col-sm-8 text-left">
+            <h1>medical history</h1>
+            <p><b>1998:</b> Diagnosed with hypertension and began on
+                unknown medication. Stopped after 6 months
+                because of drowsiness.
+                1990: Diagnosed with peptic ulcer disease, which
+                resolved after three months on cimetidine. She Always use generic names
+                describes no history of cancer, lung disease
+                or previous heart disease. </p>
+            <p>
+                <b>1990:</b> Diagnosed with peptic ulcer disease, which
+                resolved after three months on cimetidine.
+                describes no history of cancer, lung disease
+                or previous heart disease.
+            </p>
+            <p>
+                <b>Allergy:</b> Penicillin; experienced rash and hives in 1985.
+            </p>
+            <p>
+                <b>Social History –</b>
+                Alcohol use: 1 or 2 beers each weekend; 1 glass of Quantity
+                wine once a week with dinner.
+            </p>
+            <p>
+                <b>
+                    Tobacco use:
+
+                </b> None.
+            </p>
+
+            <p>
+                <b>
+                    Medications:
+                </b> No prescription or illegal drug use.
+                Occasional OTC ibuprofen (Advil) for Include over-the-counter drugs
+                headache (QOD).
+            </p>
+            <hr>
+            <h1>Family History</h1>
+            <p>
+                <b>Mother:</b> 79, alive and well.
+            </p>
+            <p>
+                <b>Father:</b> 54, deceased, heart attack. No brothers
+                or sisters. There is a positive family history of
+                hypertension, but no diabetes, or cancer
+            </p>
+            <hr>
+
+            <h1>Donor's Medical history </h1>
+            <p>
+                <b>RelationShip with the patient: </b> Son
+            </p>
+            <p>
+                <b>Name :</b> abhinav singh jodha
+            </p>
+            <p>
+                <b>Allergy:</b> Penicillin; experienced rash and hives in 1985.
+            </p>
+            <p>
+                <b>
+                    Tobacco use:
+
+                </b> None.
+            </p>
+
+            <p>
+                <b>
+                    Medications:
+                </b> No prescription or illegal drug use.
+
+            </p>
+            <p >
+                <b> Sex:</b> Male<br>
+                <B>Blood group:</B> B negative<br>
+                <B>Haemoglobin()gm%:</B> 16.3<br>
+                <B>Hiv I&II:</B> NON REACTIVE<br>
+                <B>NAT TEST:</B> NON REACTIVE<br>
+                <B>HCV:</B> NON REACTIVE<br>
+                <B>ANTIBODY SCREENING:</B> NON REACTIVE<br>
+
+            </p>
+
+        </div>
+        <div class="col-sm-2 sidenav">
+            <div class="well">
+                <p>ADS</p>
+            </div>
+            <div class="well">
+                <p>ADS</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+</html>

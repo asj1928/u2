@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>login</title>
+    <!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="INDEX.html"><h3 style="margin-top: 0px">Find A Donor</h3></a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Sign Up</h4>
+            </div>
+            <div class="modal-body">
+
+                <form class="form-group row">
+                    <div class="form-group col-lg-10">
+                        <label>First Name</label>
+                        <input class="form-control" type="text" name="firstname"
+                               placeholder="Enter Your First name" required>
+                    </div>
+
+                    <div class="col-lg-2"></div>
+
+                    <div class="form-group col-lg-10">
+                        <label>Last name</label>
+                        <input class="form-control" type="text" name="lastname" placeholder="Enter Your Last name" required>
+
+                    </div>
+
+                    <div class="form-group col-lg-10">
+                        <label>Email</label>
+                        <input class="form-control" type="email" name="email" placeholder="Enter Your Email" required>
+
+                    </div>
+
+                    <div class="form-group col-lg-10">
+                        <label>Username</label>
+                        <input class="form-control" type="text" name="username" placeholder="Enter Your Username" required>
+
+                    </div>
+
+                    <div class="form-group col-lg-10">
+                        <label>Password</label>
+                        <input class="form-control" type="password" name="password" placeholder="Enter Your Password" required>
+
+                    </div>
+
+                    <div class="form-group col-lg-10">
+                        <label>Confirm Password</label>
+                        <input class="form-control" type="password" name="confirmpassword"
+                               placeholder="Confirm Your Password" required>
+
+                    </div>
+
+                    <div class="form-group col-lg-10">
+                        <label>Photo</label>
+                        <input class="form-control" type="file" name="photo">
+
+                    </div>
+
+                    <div class="form-group col-lg-10">
+                        <input type="submit" class="form-control btn-primary" style="background:#007efc">
+                    </div>
+
+                </form>
+
+            </div>
+            <!--<div class="modal-footer">-->
+                <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+            <!--</div>-->
+        </div>
+
+    </div>
+</div>
+
+<div class="text-center">
+
+    <form class="form-signin" style="padding: 40%;padding-top: 50px" action="dashboard.html">
+
+    <H2>Find a Donor</H2>
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+    <div class="checkbox mb-3">
+        <label>
+            <input type="checkbox" value="remember-me"> Remember me
+        </label>
+    </div>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    <p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+</form>
+</div>
+<form class="form-signin" style="padding: 40%;padding-top: 50px">
+
+    <H2>Find a Donor</H2>
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+    <div class="checkbox mb-3">
+        <label>
+            <input type="checkbox" value="remember-me"> Remember me
+        </label>
+    </div>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    <p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+</form>
+</body>
+</html>

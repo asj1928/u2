@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>nearest hospita</title>
+
+    <!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="col-lg-4">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="dashboard.html">Find A Donar</a>
+            </div>
+        </div>
+        <div class="col-lg-8">
+
+
+            <ul class="nav navbar-nav col-lg-12">
+                <!--<li class="col-lg-1"></li>-->
+                <li class="col-lg-5 ">
+                    <form class="form-inline col-lg-12 " style="margin-top: 12px">
+                        <div class="form-group">
+                            <input class="form-control" type="search" placeholder="search..">
+                            <button type=" button " class="btn  btn-default">
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                            </input>
+
+                        </div>
+
+                    </form>
+                </li>
+
+
+                <li class="col-lg-1" style="padding: 0px"><a href="#myModal2" data-toggle="modal"
+                                                             data-target="#myModal2"><i class="fa fa-envelope-o"
+                                                                                        style="font-size:24px"></i></a>
+                </li>
+                <div id="myModal2" class="modal fade" role="dialog">
+
+                    <div class="modal-dialog">
+
+
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">send invitation</h4>
+                            </div>
+                            <div class="modal-body">
+                                <form class="form-horizontal" action="#">
+                                    <div class=" col-lg-12">
+                                        <div class="col-lg-2">
+                                            <label class="control-label ">message:</label>
+
+                                        </div>
+                                        <div class="col-lg-10">
+                                            <textarea type="text" class="form-control" id="email1"
+                                                      name="email1"></textarea>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="dropdown col-lg-12">
+                                        <br><br>
+                                        <div class="col-lg-2">
+                                            <label class="control-label ">Email to:</label>
+
+                                        </div>
+                                        <div class="col-lg-10">
+                                            <select class="form-control " name="topic">
+
+
+                                                <option value="">Ajay singh</option>
+                                                <option value="">P.Sriram</option>
+                                                <option value="">Soumiya Dutta</option>
+
+
+                                            </select>
+                                        </div>
+
+
+                                    </div>
+                                    <br><br>
+                                    <br>
+
+                                    <div class="form-group">
+                                        <br><br>
+                                        <div class="col-sm-4"></div>
+                                        <div class=" col-sm-4">
+                                            <br><br>
+
+                                            <button type="submit" class="btn btn-default">share</button>
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close
+                                            </button>
+
+                                        </div>
+                                        <div class="col-sm-4"></div>
+                                    </div>
+                                </form>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <li class="dropdown  col-lg-3" style="padding: 0px">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-user-circle-o"
+                                                                                  style="font-size:24px"></i>
+                        Ajay Singh
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="dashboard.html">Dashboard</a></li>
+                        <li><a href="viewProfile.html">profile</a></li>
+                        <li><a href="#">edit profile</a></li>
+                        <li><a href="nearestHos.html">Nearest hospital</a></li>
+                        <li><a href="#">logout</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
+
+        </div>
+
+    </div>
+</nav>
+<DIV class="container">
+    <p><h1>Nearest Hospital</h1></p>
+    <hr>
+
+    <br>
+    <div class="container">
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" style="width: 300px; height: 300px;" src="images/jevan.png" data-holder-rendered="true">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading"><b>jeevan anmol hospital</b> <span class="text-muted">12km</span></h2>
+                <p class="lead"><b>Address:</b> Pocket 5, Mayur Vihar Phase 1, New Delhi, Delhi</p>
+                <p class="lead"><b>Hours:</b>Open 24 hrs</p>
+                <p class="lead"><b>phone:</b>011 2275 0380</p>
+            </div>
+
+        </div>
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="container">
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" style="width: 300px; height: 300px;" src="images/appolo.png" data-holder-rendered="true">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading"><b>Apollo hospital</b> <span class="text-muted">12km</span></h2>
+                <p class="lead"><b>Address:</b>  Plot A,, 15, Moti Nagar Road, Block 14, Moti Nagar, New Delhi, Delhi 110015</p>
+                <p class="lead"><b>Hours:</b>Open 24 hrs</p>
+                <p class="lead"><b>phone:</b>011 4424 4424</p>
+                <p><b>Website:</b><a href="https://www.apollocradle.com">https://www.apollocradle.com</a> </p>
+            </div>
+
+        </div>
+    </div>
+    <br>
+    <hr>
+    <br>
+    <div class="container">
+        <div class="row featurette">
+            <div class="col-md-5">
+                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" style="width: 300px; height: 300px;" src="images/max.png" data-holder-rendered="true">
+            </div>
+            <div class="col-md-7">
+                <h2 class="featurette-heading"><b>Max Super Speciality Hospital, Patparganj
+                </b> <span class="text-muted">1.5km</span></h2>
+                <p class="lead"><b>Address:</b>   108A, IP Extension, Patparganj, Delhi, 110092</p>
+                <p class="lead"><b>Hours:</b>Open 24 hrs</p>
+                <p class="lead"><b>phone:</b>011 4303 3333</p>
+                <p><b>Website:</b><a href="https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-patparganj">https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-patparganj</a> </p>
+            </div>
+
+        </div>
+    </div>
+    <br>
+    <hr>
+
+
+</DIV>
+
+
+
+
+
+</body>
+</html>
